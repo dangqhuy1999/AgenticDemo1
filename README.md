@@ -10,5 +10,8 @@
 6. streamlit run app.py # run main code
 7. open browser with `http://localhost:8501` and type your question on textbox `? Enter your query in plain English: ?` 
 
+`GOOGLE_API_KEY` just demo, it is deleted. 
+
+Follow the link to create [GOOGLE_API_KEY](https://aistudio.google.com/apikey)
 
 ## Author by HUY
