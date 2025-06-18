@@ -1,4 +1,4 @@
-## This is an example myself from edureka`
+## This is an example myself from edureka relate to create an basically app Generative AI
 
 #### TO run this code 
 
