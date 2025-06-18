@@ -9,4 +9,6 @@
 5. python sql.py # Create table + insert values
 6. streamlit run app.py # run main code
 7. open browser with `http://localhost:8501` and type question on textbox `? Enter your query in plain English: ?` 
-Author by HUY
+
+
+## Author by HUY
